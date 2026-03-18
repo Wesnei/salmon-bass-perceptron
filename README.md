@@ -1,6 +1,6 @@
 # Classificação de Espécies de Peixes com Perceptron
 
-Este projeto faz parte da disciplina de **Aprendizagem Profunda (2026.1)** do Mestrado em Ciência da Computação (PPGCC - IFCE).
+Este projeto faz parte da disciplina de **Aprendizagem Profunda (2026.1)** do Mestrado em Ciências da Computação (PPGCC - IFCE).
 
 ## 📌 Descrição
 Implementação "pedestre" (do zero) de um Perceptron de camada única para classificar Salmão e Robalo com base no dataset clássico de Duda & Hart.
